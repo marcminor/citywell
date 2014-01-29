@@ -43,10 +43,10 @@ if (WP_ENV == 'development') {
 define('DB_NAME', 'feature2_citywell');
 
 /** MySQL database username */
-define('DB_USER', 'feature2_admin');
+define('DB_USER', 'feature2');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'sleep@10');
+define('DB_PASSWORD', 'azazel');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
