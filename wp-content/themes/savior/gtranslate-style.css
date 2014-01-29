@@ -1,0 +1,18 @@
+select.goog-te-combo {
+width: 143px !important;
+background: #fff;
+box-shadow: none !important;
+-moz-box-shadow: none !important;
+-webkit-box-shadow: none !important;
+padding: 3px !important;
+height: auto !important;
+border: 1px solid lightgray !important;
+border-radius: 0px !important;
+-webkit-border-radius: 0px;
+-moz-border-radius: 0px !important;
+}
+
+select.goog-te-combo, .goog-te-banner *, .goog-te-ftab *, .goog-te-menu *, .goog-te-menu2 *, .goog-te-balloon * {
+font-family: open sans;
+font-size: 10pt;
+}

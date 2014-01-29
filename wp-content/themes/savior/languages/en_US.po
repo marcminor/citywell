@@ -1,0 +1,2476 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Savior\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-05-25 07:53-0500\n"
+"PO-Revision-Date: 2013-05-25 07:53-0500\n"
+"Last-Translator: Justin Scheetz <justin@webzyne.net>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!"
+"Savior/Working Wordpress\n"
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/404.php:9
+msgid "Page Not Found"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/404.php:11
+msgid "Sorry, this page cannot be found."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/archive-audio-items.php:10
+msgid "All Audio Posts"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/archive-audio-items.php:30 Wordpress/archive-video-items.php:23
+#: Wordpress/archive.php:59 Wordpress/taxonomy-audio.php:35
+#: Wordpress/taxonomy-videos.php:29
+#: Wordpress/_theme_settings/shortcodes/audio-posts/audio-posts.php:84
+#: Wordpress/_theme_settings/shortcodes/posts/posts.php:78
+msgid "Posted on"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/archive-audio-items.php:30 Wordpress/archive-video-items.php:23
+#: Wordpress/archive.php:59 Wordpress/taxonomy-audio.php:35
+#: Wordpress/taxonomy-videos.php:29
+#: Wordpress/_theme_settings/shortcodes/audio-posts/audio-posts.php:84
+#: Wordpress/_theme_settings/shortcodes/posts/posts.php:78
+msgid "by"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/archive-audio-items.php:30 Wordpress/archive-video-items.php:23
+#: Wordpress/archive.php:59 Wordpress/footer.php:99
+#: Wordpress/taxonomy-audio.php:35 Wordpress/taxonomy-videos.php:29
+#: Wordpress/_theme_settings/shortcodes/audio-posts/audio-posts.php:84
+#: Wordpress/_theme_settings/shortcodes/posts/posts.php:78
+msgid "in"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/archive-audio-items.php:31 Wordpress/taxonomy-audio.php:36
+msgid "No Comments"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/archive-audio-items.php:31 Wordpress/archive-video-items.php:24
+#: Wordpress/archive.php:60 Wordpress/taxonomy-audio.php:36
+#: Wordpress/taxonomy-videos.php:30
+#: Wordpress/_theme_settings/shortcodes/posts/posts.php:79
+msgid "1 Comment"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/archive-audio-items.php:31 Wordpress/archive-video-items.php:24
+#: Wordpress/archive.php:60 Wordpress/taxonomy-audio.php:36
+#: Wordpress/taxonomy-videos.php:30
+#: Wordpress/_theme_settings/shortcodes/posts/posts.php:79
+msgid "Comments"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/archive-audio-items.php:37 Wordpress/single-audio-items.php:28
+#: Wordpress/taxonomy-audio.php:42
+#: Wordpress/_theme_settings/shortcodes/audio-posts/audio-posts.php:91
+#: Wordpress/_theme_settings/widgets/recent-audio.php:164
+msgid "Play Audio"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/archive-gallery-items.php:10
+msgid "All Galleries"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/archive-video-items.php:10
+msgid "All Videos"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/archive.php:17
+msgid "Tagged"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/archive.php:20 Wordpress/archive.php:23 Wordpress/archive.php:26
+msgid "Archive for"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/archive.php:29
+msgid "Author Archive"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/archive.php:32
+msgid "Archives"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/archive.php:67 Wordpress/search.php:23
+#: Wordpress/_theme_settings/shortcodes/posts/posts.php:86
+msgid "Continue Reading"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/comments.php:20
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/comments.php:23
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/comments.php:32
+msgid "No Responses"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/comments.php:32
+msgid "One Response"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/comments.php:32
+msgid "Responses"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/comments.php:54
+msgid "Comments are closed."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/comments.php:66
+msgid "Leave a Reply"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/functions.php:18
+#: Wordpress/_theme_settings/theme-functions.php:431
+msgid "View your shopping cart"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/search.php:10
+msgid "Search Results"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/searchform.php:3
+msgid "Search..."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/searchform.php:4
+msgid "Go"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_framework/admin/options-framework.php:244
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_framework/admin/options-framework.php:275
+msgid "Default options restored."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_framework/admin/options-framework.php:323
+msgid "Options saved."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_framework/admin/options-framework.php:381
+msgid "Theme Options"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_framework/admin/options-medialibrary-uploader.php:26
+msgid "Options Framework Internal Container"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_framework/admin/options-medialibrary-uploader.php:128
+msgid "Upload"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_framework/admin/options-medialibrary-uploader.php:151
+msgid "View File"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_framework/admin/options-medialibrary-uploader.php:288
+#: Wordpress/_theme_settings/post-types/galleries.php:8
+msgid "Gallery"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_framework/admin/options-medialibrary-uploader.php:288
+msgid "Previously Uploaded"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_framework/custom_fields/cf_framework.php:6
+msgid "Select a page..."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_framework/custom_fields/cf_framework.php:35
+msgid "Select"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/add-theme-support.php:20
+msgid "Main Menu"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/page-parts.php:27
+msgid "Featured Event in"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/page-parts.php:53
+msgid "Next Event in"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/register-sidebars.php:6
+msgid "Default Sidebar"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/register-sidebars.php:8
+msgid "The default sidebar for pages."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/register-sidebars.php:17
+msgid "Page Widget Block A"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/register-sidebars.php:19
+msgid ""
+"These widgets show up on pages that have widgets active. This is block #1."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/register-sidebars.php:28
+msgid "Page Widget Block B"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/register-sidebars.php:30
+msgid ""
+"These widgets show up on pages that have widgets active. This is block #2."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/register-sidebars.php:39
+msgid "Page Widget Block C"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/register-sidebars.php:41
+msgid ""
+"These widgets show up on pages that have widgets active. This is block #3."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/register-sidebars.php:50
+msgid "Bottom Widget Block A"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/register-sidebars.php:52
+msgid "These widgets show up in the bottom footer (left side)."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/register-sidebars.php:61
+msgid "Bottom Widget Block B"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/register-sidebars.php:63
+msgid "These widgets show up in the bottom footer (middle)."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/register-sidebars.php:72
+msgid "Bottom Widget Block C"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/register-sidebars.php:74
+msgid "These widgets show up in the bottom footer (right side)."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/register-sidebars.php:83
+msgid "Post Sidebar"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/register-sidebars.php:85
+msgid "These widgets will show up on posts only."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/register-sidebars.php:94
+msgid "Audio Posts/Category Sidebar"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/register-sidebars.php:96
+msgid "These widgets will show up on Audio posts only."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/register-sidebars.php:105
+msgid "Video Posts/Category Sidebar"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/register-sidebars.php:107
+msgid "These widgets will show up on Video posts only."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/register-sidebars.php:116
+msgid "Gallery Posts/Category Sidebar"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/register-sidebars.php:118
+msgid "These widgets will show up on Gallery posts only."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-functions.php:254
+msgid "Featured Image"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-functions.php:268
+#: Wordpress/_theme_settings/theme-options.php:177
+#: Wordpress/_theme_settings/theme-options.php:185
+msgid "None"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-functions.php:650
+#: Wordpress/_theme_settings/shortcodes/upcoming/upcoming.php:99
+#: Wordpress/_theme_settings/widgets/upcoming-events.php:153
+msgid "All day"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:161
+#: Wordpress/_theme_settings/theme-options.php:169
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:705
+msgid "All"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:199
+msgid "General Styling"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:202
+msgid "Logo Replacement"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:203
+msgid ""
+"Upload your own logo. Our recommendation is to keep it at 300px x 109px or "
+"smaller."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:207
+msgid "Logo Width (optional)"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:208
+msgid ""
+"The default width for logos is \"174\". You can change this here by entering "
+"a new width."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:213
+msgid "Logo Height (optional)"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:214
+msgid ""
+"The default height for logos is \"109\". You can change this here by "
+"entering a new height."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:221
+msgid "Overall Style"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:228
+msgid "Main Color"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:229
+msgid "You can change the custom color. (default is #c86300)"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:234
+msgid "Main Background Color"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:235
+msgid "You can change the main background color. (default is #ffffff)"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:240
+msgid "Main Text Color"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:241
+msgid "You can change the main text color. (default is #333333)"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:246
+msgid "Favicon Replacement"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:247
+msgid ""
+"Upload your own favicon. Be sure it's a 16px x 16px \"ico\" or \"png\" file."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:255
+msgid "Header"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:258
+msgid "Header Background Color"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:259
+msgid "You can change the custom background color. (default is #603C25)"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:264
+msgid "Header Background Image"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:265
+#: Wordpress/_theme_settings/theme-options.php:694
+msgid "Upload your own background image."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:271
+msgid "Background Image Alignment"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:280
+msgid "Background Repeat?"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:287
+msgid "Disable the Header Image (just use the background color)?"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:294
+msgid "Top Left Text"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:295
+#: Wordpress/_theme_settings/theme-options.php:312
+#: Wordpress/_theme_settings/theme-options.php:752
+msgid "You can use &lt;span&gt; tags to colorize &amp; bold specific text."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:304
+msgid "Top Bar &mdash; Right Content Type"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:305
+msgid ""
+"Choose the type of content you want to display on the right side of the top "
+"bar."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:311
+msgid "Top Right Text (if selected above)"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:317
+msgid "Disable the Top Bar?"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:327
+msgid "Slider Styling"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:332
+msgid "Full Width Slider Styling"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:342
+msgid "Custom Fonts"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:345
+msgid "Choose a font from the entire Google Library:"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:567
+msgid "Font preview (save to refresh the preview):"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:571
+msgid "Comment Disabling"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:576
+msgid "Disable comments on pages?"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:577
+msgid "Select 'yes' if you want to hide the commenting for all pages."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:583
+msgid "Disable comments on posts?"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:584
+msgid "Select 'yes' if you want to hide the commenting for all posts."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:590
+msgid "Disable comments on photo galleries?"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:591
+msgid "Select 'yes' if you want to hide the commenting for all gallery posts."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:597
+msgid "Disable comments on video posts?"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:598
+msgid "Select 'yes' if you want to hide the commenting for all video posts."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:604
+msgid "Disable comments on audio posts?"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:605
+msgid "Select 'yes' if you want to hide the commenting for all audio posts."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:613
+msgid "Social Settings"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:616
+msgid "Facebook"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:617
+msgid "Paste your Facebook profile or page URL here."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:622
+msgid "Twitter"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:623
+msgid "Paste your Twitter profile URL here."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:628
+msgid "LinkedIn"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:629
+msgid "Paste your LinkedIn profile URL here."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:634
+msgid "Youtube"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:635
+msgid "Paste your Youtube profile URL here."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:640
+msgid "Vimeo"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:641
+msgid "Paste your Vimeo profile URL here."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:646
+msgid "RSS Feed"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:647
+msgid "Paste your RSS Feed URL here."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:654
+msgid "Localization"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:658
+msgid "12-Hour Format (am/pm)"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:659
+msgid "24-Hour Format"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:661
+msgid "Time Format"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:662
+msgid "Choose time format."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:669
+msgid "English"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:670
+msgid "Deutsch (German)"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:671
+msgid "Espanol (Spanish)"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:672
+msgid "Francais (French)"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:673
+msgid "Italiano (Italian)"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:675
+msgid "Event Countdown Language"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:676
+msgid "Choose a language for the countdown timer."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:684
+msgid "Footer"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:687
+msgid "Footer Background Color"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:688
+msgid "You can change the custom background color. (default is #333333)"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:693
+msgid "Footer Background Image"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:704
+#: Wordpress/_theme_settings/custom-fields/pages.php:104
+msgid "Widget Layout"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:705
+msgid "Choose the widget layout you want to use in the footer."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:713
+msgid "Footer Background Image Alignment"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:722
+msgid "Footer Background Repeat?"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:729
+msgid "Disable the Footer Image (just use the background color)?"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:736
+msgid "Left Text"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:737
+msgid "You can use [year] to display the year."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:744
+msgid "Right Content Type"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:745
+msgid ""
+"Choose the type of content you want to display on the right side of the "
+"footer."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:751
+msgid "Right Text (if selected above)"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:757
+msgid "Disable the Footer Bar?"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:765
+msgid "Breadcrumbs"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:768
+msgid "Disable the Breadcrumbs on Pages?"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:775
+msgid "Disable the Breadcrumbs on Posts?"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:782
+msgid "Disable the Breadcrumbs on Search Results?"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:789
+msgid "Disable the Breadcrumbs on Audio Posts?"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:796
+msgid "Disable the Breadcrumbs on Videos?"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:803
+msgid "Disable the Breadcrumbs on Galleries?"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:810
+msgid "Breadcrumb Link for \"Galleries\" Page"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:816
+msgid "Breadcrumb Title for \"Galleries\" Page"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:824
+#: Wordpress/_theme_settings/custom-fields/pages.php:16
+msgid "Other Options"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:827
+msgid "404 Page Content"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:828
+msgid "This is what will show up on the 404 page. HTML Allowed."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:830
+msgid "Sorry, the page cannot be found."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:833
+msgid "Google Analytics Code"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:834
+msgid "Enter your code, this shows up right above the </head> tag."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:839
+msgid "Custom CSS Code"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/theme-options.php:840
+msgid "Enter your own styles to overwrite whatever you need to."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/custom-fields/audio.php:5
+msgid "Upload the MP3 version of your audio file."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/custom-fields/audio.php:7
+msgid ""
+"Alternatively, link to an external MP3 file. This will override any uploaded "
+"ones."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/custom-fields/audio.php:9
+msgid "Upload Audio Files"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/custom-fields/galleries.php:4
+msgid "General Settings"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/custom-fields/galleries.php:6
+msgid "Show the big image?"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/custom-fields/galleries.php:6
+msgid ""
+"This will display a big version of the Featured Post Image as an "
+"introduction at the top of the gallery."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/custom-fields/galleries.php:7
+#: Wordpress/_theme_settings/custom-fields/pages.php:36
+msgid "Yes"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/custom-fields/galleries.php:10
+msgid ""
+"This theme counts the number of photos uploaded to the post. Sometimes this "
+"number doesn't line up with how many photos are actually in your gallery, so "
+"you can override that number here."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/custom-fields/pages.php:6
+msgid "Page Layout"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/custom-fields/pages.php:14
+msgid "Individual blocks can be hidden using the other options on this page."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/custom-fields/pages.php:17
+msgid "Hide the breadcrumbs above the title."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/custom-fields/pages.php:17
+msgid "Hide the page title."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/custom-fields/pages.php:19
+msgid "Page Settings"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/custom-fields/pages.php:26
+msgid "Slider to display:"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/custom-fields/pages.php:28
+msgid "Create a new slider"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/custom-fields/pages.php:31
+msgid "Slider Animation Speed:"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/custom-fields/pages.php:35
+msgid "Auto-cycle the slider?"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/custom-fields/pages.php:47
+msgid "Slider Interval:"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/custom-fields/pages.php:51
+msgid "Slider Settings"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/custom-fields/pages.php:64
+msgid "Event to display:"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/custom-fields/pages.php:67
+msgid "Countdown Layout"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/custom-fields/pages.php:71
+msgid ""
+"\"DEFAULT\" is \"Featured event in...\" or \"Next event in...\" depending on "
+"the type of countdown &mdash; set a custom one here or leave blank to "
+"display no pretext.\""
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/custom-fields/pages.php:73
+msgid "Countdown Block Settings"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/custom-fields/pages.php:82
+msgid "Sidebar Layout"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/custom-fields/pages.php:96
+msgid "Choose a sidebar:"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/custom-fields/pages.php:99
+msgid "Sidebar Settings"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/custom-fields/pages.php:115
+msgid "Widget Block for ZONE 1:"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/custom-fields/pages.php:119
+msgid "Widget Block for ZONE 2:"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/custom-fields/pages.php:123
+msgid "Widget Block for ZONE 3:"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/custom-fields/pages.php:126
+msgid "First Widget Row"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/custom-fields/videos.php:5
+msgid ""
+"Paste the link here to a <strong>Vimeo</strong> or <strong>Youtube</strong> "
+"video page.<br /><br /><strong>Youtube Example:</strong> http://www.youtube."
+"com/watch?v=UF8uR6Z6KLc<br /><strong>Vimeo Example:</strong> http://vimeo."
+"com/30195371"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/custom-fields/videos.php:6
+msgid "Video Link"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:261
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:1609
+msgid "Events"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:269
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:762
+msgid "Categories"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:282
+msgid "Options"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:322
+msgid "Today"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:323
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-event.php:94
+msgid "All Day"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:324
+msgid "Years"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:325
+msgid "Year"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:326
+msgid "Months"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:327
+msgid "Month"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:328
+msgid "Weeks"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:329
+msgid "Week"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:330
+msgid "Days"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:331
+msgid "Day"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:332
+msgid "Hours"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:333
+msgid "Hour"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:334
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-options.php:8
+msgid "Minutes"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:335
+msgid "Minute"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:336
+msgid "January"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:337
+msgid "February"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:338
+msgid "March"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:339
+msgid "April"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:340
+msgid "May"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:341
+msgid "June"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:342
+msgid "July"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:343
+msgid "August"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:344
+msgid "September"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:345
+msgid "October"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:346
+msgid "November"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:347
+msgid "December"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:348
+msgid "Jan"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:349
+msgid "Feb"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:350
+msgid "Mar"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:351
+msgid "Apr"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:353
+msgid "Jun"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:354
+msgid "Jul"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:355
+msgid "Aug"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:356
+msgid "Sep"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:357
+msgid "Oct"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:358
+msgid "Nov"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:359
+msgid "Dec"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:360
+msgid "Sunday"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:361
+msgid "Monday"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:362
+msgid "Tuesday"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:363
+msgid "Wednesday"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:364
+msgid "Thursday"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:365
+msgid "Friday"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:366
+msgid "Saturday"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:367
+msgid "Sun"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:368
+msgid "Mon"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:369
+msgid "Tue"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:370
+msgid "Wed"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:371
+msgid "Thu"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:372
+msgid "Fri"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:373
+msgid "Sat"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:374
+msgid "Close Event"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:375
+msgid "Loading event..."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:376
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:742
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:754
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-event.php:278
+msgid "Update"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:377
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:756
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-event.php:276
+msgid "Delete"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:378
+msgid "Category type"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:379
+msgid "hide all notifications"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:380
+msgid "has been created."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:381
+msgid "has been modified."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:382
+msgid "has been deleted."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:383
+msgid "Add Event"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:384
+msgid "Edit Event"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:385
+msgid "Delete this event?"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:386
+msgid "Loading Events..."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:387
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:740
+msgid "Category filter label"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:388
+msgid "Repeats Every"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:389
+msgid "Until"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:390
+msgid "Success!"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:391
+msgid "Whoops!"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:404
+msgid "You cannot edit events created by other users."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:405
+msgid "You cannot create events in the past."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:406
+msgid "You cannot create events more than a year in advance."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:407
+msgid "You cannot resize expired events."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:408
+msgid "You cannot move events into the past."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:409
+msgid "You cannot edit expired events."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:410
+msgid "Invalid duration."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:427
+msgid "Category type cannot be a blank value."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:428
+msgid "Are you sure you want to delete this category type?"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:429
+msgid ""
+"Several events are associated with this category. Click OK to reassign these "
+"events to the default category."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:430
+msgid "Events have been reassigned to the default category."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:513
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:716
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:728
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:770
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:797
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:519
+msgid "Event Calendar"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:605
+msgid "Add Events"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:631
+msgid "No upcoming events"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:731
+msgid ""
+"To add a new category, enter a category label and select a background color."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:736
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-event.php:280
+msgid "Add"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:744
+msgid ""
+"Category IDs are displayed in color bubbles at the beginning of each row."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:745
+msgid ""
+"To change category color, click the color swatch or edit the hex color value "
+"and click Update."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:761
+msgid "Manage Categories"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:782
+msgid "NOTE: Each repeating event is counted once."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:784
+msgid "No events this month."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:787
+msgid "Number of events scheduled for the current month, by category:"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:789
+msgid "Reports"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/ajax-event-calendar.php:1623
+msgid "Settings"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-event.php:91
+msgid "Duration"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-event.php:99
+msgid "From"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-event.php:107
+msgid "To"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-event.php:120
+msgid "Repeats"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-event.php:125
+msgid "Every"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-event.php:126
+msgid "Never"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-event.php:142
+msgid "Day(s)"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-event.php:143
+msgid "Week(s)"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-event.php:144
+msgid "Month(s)"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-event.php:145
+msgid "Year(s)"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-event.php:153
+msgid "Until this date"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-event.php:159
+#: Wordpress/_theme_settings/widgets/gallery-widget.php:30
+#: Wordpress/_theme_settings/widgets/recent-audio.php:30
+#: Wordpress/_theme_settings/widgets/text.php:23
+#: Wordpress/_theme_settings/widgets/upcoming-events.php:24
+#: Wordpress/_theme_settings/widgets/video-widget.php:30
+msgid "Title"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-event.php:163
+msgid "Category"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-event.php:176
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-options.php:42
+msgid "Venue"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-event.php:183
+msgid "Address"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-event.php:187
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-options.php:43
+msgid "Neighborhood or Street Address"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-event.php:194
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-options.php:2
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-options.php:44
+msgid "City"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-event.php:201
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-options.php:45
+msgid "State/Province"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-event.php:208
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-options.php:4
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-options.php:46
+msgid "Postal Code"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-event.php:215
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-options.php:47
+msgid "Country"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-event.php:225
+msgid "Website Link"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-event.php:232
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-options.php:49
+msgid "Description"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-event.php:239
+msgid "Contact Person"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-event.php:243
+msgid "Name"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-event.php:250
+msgid "Phone or Email Address"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-event.php:262
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-options.php:52
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/show-event.php:97
+msgid "This event is accessible to people with disabilities."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-event.php:270
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-options.php:53
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/show-event.php:105
+msgid "Please register with the contact person for this event."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-event.php:274
+msgid "Cancel"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-event.php:277
+msgid "Copy"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-event.php:290
+msgid "Created by"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-event.php:291
+msgid "Ajax Event Calendar"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-options.php:3
+msgid "State"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-options.php:11
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-options.php:12
+msgid "Hide"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-options.php:11
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-options.php:12
+msgid "Display"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-options.php:12
+msgid "Require"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-options.php:15
+msgid "Event Calendar Options"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-options.php:19
+msgid "Settings Updated"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-options.php:30
+msgid "Display calendar weekends."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-options.php:31
+msgid "Prevent users from adding or editing expired events."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-options.php:32
+msgid "Display the Add Events link on the front-end calendar."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-options.php:33
+msgid "Display the View Map link on event details."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-options.php:34
+msgid "Convert description field URLs into  clickable links."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-options.php:35
+msgid "Navigate administrative calendar with mousewheel."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-options.php:36
+msgid "Date Format, Time Format, and Week Start settings are "
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-options.php:37
+msgid "located here"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-options.php:38
+msgid "Address format"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-options.php:39
+msgid "Event timepicker interval"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-options.php:41
+msgid ""
+"Hide, display or require form fields.  Hidden fields do not appear in the "
+"event form."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-options.php:48
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/show-event.php:139
+msgid "Event Link"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-options.php:50
+msgid "Contact Name"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-options.php:51
+msgid "Contact Information"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-options.php:55
+msgid "Modify calendar and form options then click Save Changes below."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-options.php:56
+msgid "Reset all settings on Save."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/admin-options.php:57
+msgid "Save Changes"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/show-event.php:77
+msgid "View Map"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/show-event.php:123
+msgid "Presented by"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/widget-contributors.php:9
+msgid "A list of calendar contributors linked to their organization websites"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/widget-contributors.php:10
+msgid "AEC Contributors"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/widget-contributors.php:26
+msgid "No contributors as of yet."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/widget-contributors.php:62
+msgid "No options available."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/widget-upcoming.php:17
+msgid "AEC Upcoming Events"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/plugins/ajax-event-calendar/inc/widget-upcoming.php:34
+#: Wordpress/_theme_settings/widgets/upcoming-events.php:25
+msgid "Upcoming Events"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/post-types/audio.php:7
+msgid "Audio Items"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/post-types/audio.php:8
+msgid "Audio Item"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/post-types/audio.php:9
+#: Wordpress/_theme_settings/post-types/audio.php:10
+msgid "Add New Audio Item"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/post-types/audio.php:11
+msgid "Edit Audio Item"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/post-types/audio.php:12
+msgid "New Audio Item"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/post-types/audio.php:13
+msgid "View Audio Item"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/post-types/audio.php:14
+msgid "Search Audio Items"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/post-types/audio.php:15
+msgid "No Audio Items Found"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/post-types/audio.php:16
+msgid "No Audio Items Found In Trash"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/post-types/audio.php:17
+msgid "Parent Audio Item:"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/post-types/audio.php:41
+msgid "Search Audio Series"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/post-types/audio.php:42
+msgid "Popular Audio Series"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/post-types/audio.php:43
+msgid "All Audio Series"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/post-types/audio.php:46
+msgid "Edit Audio Series"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/post-types/audio.php:47
+msgid "Update Audio Series"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/post-types/audio.php:48
+msgid "Add New Audio Series"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/post-types/audio.php:49
+msgid "New Audio Series Name"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/post-types/audio.php:50
+msgid "Separate Audio Series with commas"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/post-types/audio.php:51
+msgid "Add or remove Audio Series"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/post-types/audio.php:52
+msgid "Choose from the most used Audio Series"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/post-types/galleries.php:7
+#: Wordpress/_theme_settings/widgets/gallery-widget.php:31
+msgid "Galleries"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/post-types/galleries.php:9
+#: Wordpress/_theme_settings/post-types/galleries.php:10
+msgid "Add New Gallery"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/post-types/galleries.php:11
+msgid "Edit Gallery"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/post-types/galleries.php:12
+msgid "New Gallery"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/post-types/galleries.php:13
+msgid "View Gallery"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/post-types/galleries.php:14
+msgid "Search Galleries"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/post-types/galleries.php:15
+msgid "No Galleries Found"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/post-types/galleries.php:16
+msgid "No Galleries Found In Trash"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/post-types/galleries.php:17
+msgid "Parent Gallery:"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/post-types/galleries.php:41
+msgid "Search Gallery Categories"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/post-types/galleries.php:42
+msgid "Popular Gallery Categories"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/post-types/galleries.php:43
+msgid "All Gallery Categories"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/post-types/galleries.php:46
+msgid "Edit Gallery Category"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/post-types/galleries.php:47
+msgid "Update Gallery Category"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/post-types/galleries.php:48
+msgid "Add New Gallery Category"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/post-types/galleries.php:49
+msgid "New Gallery Category Name"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/post-types/galleries.php:50
+msgid "Separate Gallery Categories with commas"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/post-types/galleries.php:51
+msgid "Add or remove Gallery Categories"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/post-types/galleries.php:52
+msgid "Choose from the most used Gallery Categories"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/post-types/videos.php:7
+#: Wordpress/_theme_settings/widgets/video-widget.php:31
+msgid "Videos"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/post-types/videos.php:8
+msgid "Video"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/post-types/videos.php:9
+#: Wordpress/_theme_settings/post-types/videos.php:10
+msgid "Add New Video"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/post-types/videos.php:11
+msgid "Edit Video"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/post-types/videos.php:12
+msgid "New Video"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/post-types/videos.php:13
+msgid "View Video"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/post-types/videos.php:14
+msgid "Search Videos"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/post-types/videos.php:15
+msgid "No Videos Found"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/post-types/videos.php:16
+msgid "No Videos Found In Trash"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/post-types/videos.php:17
+msgid "Parent Video:"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/post-types/videos.php:41
+msgid "Search Video Categories"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/post-types/videos.php:42
+msgid "Popular Video Categories"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/post-types/videos.php:43
+msgid "All Video Categories"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/post-types/videos.php:46
+msgid "Edit Video Category"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/post-types/videos.php:47
+msgid "Update Video Category"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/post-types/videos.php:48
+msgid "Add New Video Category"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/post-types/videos.php:49
+msgid "New Video Category Name"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/post-types/videos.php:50
+msgid "Separate Video Categories with commas"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/post-types/videos.php:51
+msgid "Add or remove Video Categories"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/post-types/videos.php:52
+msgid "Choose from the most used Video Categories"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/post-types/sliders/slider.php:83
+msgid "Sliders"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/post-types/sliders/slider.php:84
+msgid "Slider"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/post-types/sliders/slider.php:85
+msgid "Add New"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/post-types/sliders/slider.php:86
+msgid "Add new Slider"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/post-types/sliders/slider.php:87
+#: Wordpress/_theme_settings/post-types/sliders/slider.php:90
+msgid "View Slider"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/post-types/sliders/slider.php:88
+msgid "Edit Slider"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/post-types/sliders/slider.php:89
+msgid "New Slider"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/post-types/sliders/slider.php:91
+msgid "Search Sliders"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/post-types/sliders/slider.php:92
+msgid "No Sliders found"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/post-types/sliders/slider.php:93
+msgid "No Sliders found in Trash"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/post-types/sliders/slider.php:516
+msgid "Allowed Files"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/widgets/facebook-feed.php:13
+msgid "Displays the Facebook Feed from a user or page."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/widgets/facebook-feed.php:20
+msgid "[SAVIOR] Facebook Feed"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/widgets/facebook-feed.php:26
+msgid "Facebook Feed"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/widgets/facebook-feed.php:37
+#: Wordpress/_theme_settings/widgets/recent-audio.php:46
+#: Wordpress/_theme_settings/widgets/recent-posts.php:37
+#: Wordpress/_theme_settings/widgets/recent-tweets.php:37
+#: Wordpress/_theme_settings/widgets/upcoming-events.php:30
+msgid "How many total items?"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/widgets/facebook-feed.php:43
+#: Wordpress/_theme_settings/widgets/recent-audio.php:52
+#: Wordpress/_theme_settings/widgets/recent-posts.php:43
+#: Wordpress/_theme_settings/widgets/recent-tweets.php:43
+#: Wordpress/_theme_settings/widgets/upcoming-events.php:36
+msgid "How many visible items?"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/widgets/gallery-widget.php:14
+msgid "Display one or more recent gallery items."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/widgets/gallery-widget.php:25
+msgid "[SAVIOR] Gallery Widget"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/widgets/gallery-widget.php:40
+msgid "Gallery Categories"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/widgets/gallery-widget.php:46
+#: Wordpress/_theme_settings/widgets/video-widget.php:46
+msgid "How many thumbnails to show?"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/widgets/page-children.php:8
+msgid ""
+"Displays the direct children of the current page ancestor. This widget is "
+"displayed only on pages."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/widgets/page-children.php:10
+msgid "[SAVIOR] List Child Pages"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/widgets/recent-audio.php:14
+msgid "Display one or more recent audio items."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/widgets/recent-audio.php:25
+msgid "[SAVIOR] Recent Audio Items"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/widgets/recent-audio.php:31
+msgid "Recent Sermons"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/widgets/recent-audio.php:40
+msgid "Audio Categories"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/widgets/recent-posts.php:13
+msgid "Displays recent posts in a custom style."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/widgets/recent-posts.php:20
+msgid "[SAVIOR] Recent Posts"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/widgets/recent-posts.php:26
+msgid "Recent Posts"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/widgets/recent-posts.php:31
+msgid "Select Categories"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/widgets/recent-posts.php:142
+msgid "Posted by"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/widgets/recent-posts.php:142
+msgid "on"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/widgets/recent-tweets.php:13
+msgid "Displays recent tweets from a username."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/widgets/recent-tweets.php:20
+msgid "[SAVIOR] Recent Tweets"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/widgets/recent-tweets.php:26
+msgid "Recent Tweets"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/widgets/text.php:12
+msgid "Displays a text widget."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/widgets/text.php:18
+msgid "[SAVIOR] Text Widget"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/widgets/text.php:24
+msgid "Widget Title"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/widgets/text.php:29
+msgid "Widget Text"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/widgets/text.php:35
+msgid "Button Link (optional)"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/widgets/text.php:41
+msgid "Button Text (optional)"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/widgets/upcoming-events.php:13
+msgid "Display one or more upcoming events."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/widgets/upcoming-events.php:19
+msgid "[SAVIOR] Upcoming Events"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/widgets/video-widget.php:14
+msgid "Display one or more recent video items."
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/widgets/video-widget.php:25
+msgid "[SAVIOR] Video Widget"
+msgstr ""
+
+#: /Users/justin/Dropbox/!Envato Products/!ThemeForest/!Savior/Working
+#: Wordpress/_theme_settings/widgets/video-widget.php:40
+msgid "Video Categories"
+msgstr ""
